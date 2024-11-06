@@ -1,2 +1,0 @@
-# mayconme
-.me
